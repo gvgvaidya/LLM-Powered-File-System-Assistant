@@ -1,0 +1,44 @@
+DAVID PARK
+d.park@email.com | (555) 777-8888
+
+PROFESSIONAL SUMMARY
+Machine learning engineer with 4+ years developing AI/ML solutions. Experienced in model training, deployment, and optimization. Strong Python and deep learning knowledge.
+
+EXPERIENCE
+
+ML Engineer - AI Systems (2021-Present)
+- Developed recommendation engine improving CTR by 25%
+- Deployed ML models using TensorFlow and PyTorch
+- Built model monitoring and retraining pipeline
+- Implemented A/B testing framework for model evaluation
+
+Data Scientist - ML Research (2019-2021)
+- Trained deep learning models on large datasets
+- Performed feature engineering and EDA
+- Published findings and best practices
+- Collaborated with product team on model integration
+
+Junior Data Scientist - Analytics Corp (2018-2019)
+- Built classification and regression models
+- Performed data analysis and visualization
+- Supported senior data scientists
+
+ML/AI EXPERTISE
+Frameworks: TensorFlow, PyTorch, scikit-learn, XGBoost
+Languages: Python, SQL, Scala
+Specializations: NLP, Computer Vision, Time Series
+Tools: Jupyter, Git, Docker, AWS
+Cloud: AWS SageMaker, GCP ML Engine
+
+EDUCATION
+B.S. Statistics (2018)
+M.S. Machine Learning (2020)
+
+CERTIFICATIONS
+TensorFlow Developer Certificate (2021)
+
+ACHIEVEMENTS
+- Deployed models serving 10M+ predictions daily
+- Improved model accuracy from 78% to 92%
+- Mentored 2 junior data scientists
+

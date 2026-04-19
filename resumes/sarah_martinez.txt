@@ -1,0 +1,38 @@
+SARAH MARTINEZ
+sarah.m@email.com | (555) 222-3333
+
+SUMMARY
+Backend systems engineer with 6 years of experience designing and maintaining high-throughput applications. Specialist in database optimization and scalable architecture. Passionate about clean code and automation.
+
+CAREER HIGHLIGHTS
+
+Staff Engineer - FinTech Solutions (2021-Present)
+- Designed payment processing system handling 1B+ transactions/year
+- Implemented distributed tracing improving debugging efficiency
+- Mentored 5 junior engineers and led architectural decisions
+
+Backend Engineer - TechFlow (2019-2021)
+- Developed core APIs using Python and FastAPI
+- Optimized queries reducing infrastructure costs by 40%
+- Implemented comprehensive monitoring and alerting
+
+Software Developer - StartupHub (2018-2019)
+- Built backend services from scratch
+- Managed database migrations and scaling
+- Collaborated with frontend team on API design
+
+CORE COMPETENCIES
+Languages: Python, Java, SQL, JavaScript
+Frameworks: Django, Spring Boot, FastAPI
+Databases: PostgreSQL, MySQL, Cassandra
+DevOps: Docker, Kubernetes, AWS, Terraform
+Monitoring: ELK Stack, Prometheus, Grafana
+
+EDUCATION
+B.S. Information Technology (2018)
+
+ACCOMPLISHMENTS
+- Reduced system downtime by 80% through improvements
+- Scaled database to handle 10x traffic growth
+- Established team coding standards improving quality
+

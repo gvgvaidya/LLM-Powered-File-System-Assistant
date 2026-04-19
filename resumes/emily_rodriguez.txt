@@ -1,0 +1,40 @@
+EMILY RODRIGUEZ
+emily.r@email.com | (555) 666-7777
+
+SUMMARY
+Software engineer with expertise in security and quality assurance. 5+ years ensuring software reliability through comprehensive testing and security practices.
+
+PROFESSIONAL EXPERIENCE
+
+QA Engineer - SecureTest Labs (2020-Present)
+- Led automated testing reducing production bugs by 60%
+- Implemented security testing framework
+- Trained team on testing best practices
+- Managed test infrastructure for CI/CD pipeline
+
+QA Specialist - QualityFirst (2018-2020)
+- Wrote test automation using Selenium and Pytest
+- Performed manual testing on web and mobile apps
+- Reported detailed bug reports and tracked issues
+
+Test Technician - SoftwareTesting (2017-2018)
+- Executed test plans and test cases
+- Tested various application types
+- Learned automation frameworks
+
+COMPETENCIES
+Testing: Selenium, Cypress, Pytest, JUnit
+Languages: Python, JavaScript, Java
+Tools: JIRA, TestRail, Postman, LoadRunner
+Concepts: Unit testing, Integration testing, E2E testing
+CI/CD: Jenkins, GitHub Actions, GitLab CI
+
+EDUCATION
+B.S. Computer Science (2017)
+ISTQB Certified Tester (2019)
+
+ACHIEVEMENTS
+- Automated 600+ test cases
+- Reduced regression testing time by 75%
+- Established testing standards for organization
+
