@@ -1,0 +1,36 @@
+MICHAEL TORRES
+m.torres@email.com | (555) 111-2222
+
+PROFESSIONAL SUMMARY
+Experienced full-stack engineer with 7 years building distributed systems. Strong expertise in Python, Go, and cloud infrastructure. Known for solving complex performance challenges and mentoring junior engineers.
+
+WORK HISTORY
+
+Senior Engineer - CloudScale Systems (2022-Present)
+- Architected microservices handling 50M+ daily events
+- Implemented caching layer reducing latency by 65%
+- Led team of 4 engineers on critical infrastructure projects
+
+Software Engineer - DataFlow Inc (2019-2022)
+- Developed Python backend services for analytics platform
+- Built real-time data pipelines using Kafka and Spark
+- Optimized database queries achieving 10x performance improvement
+
+Junior Engineer - WebStart Co (2017-2019)
+- Built full-stack features using React and Python
+- Participated in code review and testing processes
+- Learned cloud deployment and CI/CD pipelines
+
+TECHNICAL SKILLS
+Languages: Python, Go, JavaScript, SQL, Bash
+Frameworks: Django, FastAPI, Gin
+Cloud: AWS, GCP, Docker, Kubernetes
+Databases: PostgreSQL, MongoDB, Redis
+Tools: Git, Jenkins, Terraform, Prometheus
+
+EDUCATION
+B.S. Computer Science (2017)
+
+CERTIFICATIONS
+AWS Solutions Architect (2021)
+

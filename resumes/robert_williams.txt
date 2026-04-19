@@ -1,0 +1,39 @@
+ROBERT WILLIAMS
+r.williams@email.com | (555) 555-6666
+
+PROFESSIONAL PROFILE
+Data engineer with 4+ years building robust data infrastructure. Experienced in ETL pipelines, data warehousing, and analytics. Strong SQL and distributed systems knowledge.
+
+CAREER PATH
+
+Data Engineer - DataCorp (2021-Present)
+- Built data warehouse processing 5TB daily
+- Optimized ETL pipelines reducing runtime by 50%
+- Implemented data quality checks and validations
+- Supported 50+ analytics use cases
+
+Junior Data Engineer - Analytics Co (2019-2021)
+- Developed ETL processes using Python
+- Managed Hadoop and Spark clusters
+- Optimized SQL queries for performance
+
+Data Analyst - TechStart (2018-2019)
+- Created SQL queries for business intelligence
+- Built dashboards and reporting systems
+- Learned data pipeline fundamentals
+
+TECHNICAL STACK
+Languages: Python, SQL, Scala
+Big Data: Spark, Hadoop, Hive, Pig
+Databases: PostgreSQL, MySQL, BigQuery
+Cloud: AWS (S3, EC2, Redshift), GCP
+Tools: Apache Airflow, dbt, Tableau
+
+EDUCATION
+B.S. Mathematics (2018)
+
+ACCOMPLISHMENTS
+- Reduced data processing time by 70%
+- Built real-time analytics dashboard
+- Trained team on Spark and distributed computing
+

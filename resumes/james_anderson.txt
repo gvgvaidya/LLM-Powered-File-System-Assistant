@@ -1,0 +1,42 @@
+JAMES ANDERSON
+james.anderson@email.com | (555) 333-4444
+
+OBJECTIVE
+Skilled DevOps and infrastructure engineer seeking role to apply cloud expertise and automation knowledge. 8+ years managing production systems and improving deployment processes.
+
+PROFESSIONAL BACKGROUND
+
+DevOps Lead - CloudOps Corp (2020-Present)
+- Managed infrastructure for 200+ microservices across multiple regions
+- Implemented IaC reducing provisioning time from days to minutes
+- Reduced cloud costs by 50% through optimization
+- Led migration from on-premises to Kubernetes
+
+Infrastructure Engineer - SystemsPlus (2018-2020)
+- Deployed and maintained Kubernetes clusters
+- Automated operational tasks using Python and Ansible
+- Implemented monitoring reducing incident response time
+
+Systems Administrator - IT Services (2016-2018)
+- Managed server infrastructure
+- Implemented backup and disaster recovery solutions
+- Supported 500+ company users
+
+EXPERTISE
+Cloud: AWS, GCP, Azure
+Containerization: Docker, Kubernetes, ECS
+IaC: Terraform, CloudFormation, Ansible
+Languages: Python, Bash, Go
+Monitoring: Prometheus, Grafana, ELK
+CI/CD: Jenkins, GitLab CI, GitHub Actions
+
+EDUCATION
+B.S. Computer Engineering (2016)
+CKA Certified (2020)
+AWS Solutions Architect Pro (2021)
+
+KEY ACHIEVEMENTS
+- Reduced MTTR from 2 hours to 15 minutes
+- Implemented fully automated deployments
+- Managed 99.99% uptime across all services
+

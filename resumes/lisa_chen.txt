@@ -1,0 +1,41 @@
+LISA CHEN
+lisa.chen@email.com | (555) 444-5555
+
+SUMMARY
+Mobile and frontend developer with 5+ years creating user-focused applications. Expert in iOS development and modern web frameworks. Strong problem-solving skills and UX awareness.
+
+EXPERIENCE
+
+Senior Mobile Developer - AppWorks (2021-Present)
+- Led iOS app development for 200K+ users
+- Implemented app store optimization increasing downloads by 120%
+- Mentored 2 junior developers on best practices
+
+Mobile Developer - StartApp Inc (2019-2021)
+- Developed native iOS and Android applications
+- Implemented push notifications and analytics
+- Maintained 4.5+ star ratings across all apps
+
+Junior Developer - WebTech Studio (2018-2019)
+- Built iOS apps using Swift and Objective-C
+- Fixed bugs and implemented UI improvements
+- Learned mobile development best practices
+
+SKILLS
+Mobile: Swift, Kotlin, React Native
+Frontend: JavaScript, React, Vue.js, CSS
+Tools: Xcode, Android Studio, Git, Firebase
+Testing: XCTest, Espresso, Jest
+Architecture: MVVM, Redux, Clean Code
+
+EDUCATION
+B.S. Computer Science (2018)
+
+NOTABLE PROJECTS
+- Productivity app with 50K+ active users
+- E-commerce app with secure payments
+- Fitness app with wearable integration
+
+AWARDS
+Best App Design 2022
+
